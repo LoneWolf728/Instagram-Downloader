@@ -12,8 +12,8 @@ class InstaDownloaderApp(tk.Tk):
         super().__init__()
 
         self.title("Instagram Downloader - Anonymous Story & Media Downloader")
-        self.geometry("570x700")
-        self.minsize(570, 700)
+        self.geometry("570x820")
+        self.minsize(570, 820)
         
         # Dark theme colors with neon purple accents
         self.colors = {
