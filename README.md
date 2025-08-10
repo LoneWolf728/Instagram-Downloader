@@ -69,7 +69,7 @@ To download stories anonymously or access private accounts, you need to provide 
 4. **Refresh the page**
 5. **Find any request to instagram.com**
 6. **Right-click on the request and select "Copy as cURL"**
-7. **Use a cURL to Python converter** to extract cookies
+7. **Use a [cURL to Python converter](https://curlconverter.com/)** to extract cookies
 8. **Paste the cookies in the Settings section** of the application
 
 **Supported cookie formats:**
