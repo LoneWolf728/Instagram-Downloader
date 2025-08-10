@@ -41,8 +41,9 @@ Download posts, reels, IGTV videos, and profile pictures from public accounts wi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/instagram-downloader.git
-cd instagram-downloader
+git clone https://github.com/LoneWolf728/Instagram-Downloader.git
+
+cd Instagram-Downloader
 ```
 
 2. Install required dependencies:
